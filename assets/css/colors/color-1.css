@@ -1,0 +1,8 @@
+:root
+{
+    --hue: 0;
+    --first-color: hsl(var(--hue), 88%, 61%);
+    --first-color-alt: hsl(var(--hue), 88%, 30%);
+    --first-color-add-cart: hsl(var(--hue), 88%, 70%);
+
+}
